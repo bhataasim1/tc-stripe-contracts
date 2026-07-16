@@ -24,3 +24,4 @@ export type StripeBillingPortalSessionResponse = Stripe.Response<Stripe.BillingP
 export type StripePaymentIntentResponse = Stripe.Response<Stripe.PaymentIntent>;
 export type StripeProductResponse = Stripe.Response<Stripe.Product>
 export type StripeSubscriptionResponse = Stripe.Response<Stripe.Subscription>
+export type StripeSubscriptionScheduleResponse = Stripe.Response<Stripe.SubscriptionSchedule>;
