@@ -1,6 +1,6 @@
 {
   "name": "tc-stripe-contracts",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "TC Payments Stripe contracts",
   "main": "dist/index.js",
   "module": "dist/index.js",

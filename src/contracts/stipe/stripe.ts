@@ -10,6 +10,7 @@ export type StripeSubscriptionCancelParams = Stripe.SubscriptionCancelParams;
 export type StripeInvoice = Stripe.Invoice;
 export type StripeBillingPortalConfiguration = Stripe.BillingPortal.Configuration;
 export type StripePaymentIntent = Stripe.PaymentIntent;
+export type CustomerUpdateParams = Stripe.CustomerUpdateParams;
 
 
 // Responses
